@@ -1,0 +1,53 @@
+/* .i1{
+    height: 550px;
+    width: 100%;
+
+}
+.h1{
+    font-size: 54px;
+    color: #fff;
+    line-height: 57px;
+    padding-bottom: 20px;
+    font-weight: 700;
+}
+p{
+    font-size: 16px;
+    font-weight: 500;
+    color: #fff;
+    line-height: 28px;
+    max-width: 610px;
+}
+.b1{
+    margin-left: 75px;
+    margin-bottom: 115px;
+}
+.button1{
+    background: #5e068a none repeat scroll 0 0;
+    padding: 20px 40px;
+    margin-top: 30px;
+    border-radius: 50px;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.g1{
+    margin-left: 100px;
+}
+
+
+  
+
+
+
+ */
+
+ #i1{
+    height: 600px;
+ }
+ 
+
+
+
+ @media(orientation: portrait)
+ {
+ }
